@@ -19,6 +19,10 @@ A React-based dashboard for visualizing GitHub Advanced Security metrics across 
 - **Real-time Data**: Manual refresh capability for up-to-date security metrics
 - **Responsive Design**: Works seamlessly across desktop and tablet devices
 
+## Dashboard Preview
+
+![GHAS Dashboard Demo](ghas-dashboard-demo.png)
+
 ## Prerequisites
 
 - Node.js (v18 or higher)
